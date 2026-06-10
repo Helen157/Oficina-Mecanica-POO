@@ -26,7 +26,7 @@ public class OficinaController {
     private final List<OrdemServico> ordensServico;
     private final List<Servico> servicos;
     private final List<Funcionario> funcionarios;
-    private final Estoque estoque;
+    private final List<Estoque> estoque;
     private final List<Despesa> despesas;
 
 public OficinaController() {
